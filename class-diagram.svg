@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1113.84px" preserveAspectRatio="none" style="width:1040px;height:1113px;background:#FFFFFF;" version="1.1" viewBox="0 0 1040 1113" width="1040.76px" zoomAndPan="magnify"><defs/><g><!--MD5=[873670755c6433d3512a8b316aa6820d]
+class UserAccount--><g id="elem_UserAccount"><rect codeLine="15" fill="#F1F1F1" height="197.9775" id="UserAccount" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="238.56" x="258.72" y="542.64"/><ellipse cx="340.83" cy="556.08" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M342.51,553.14 Q342.6806,552.72 342.8775,552.51 Q343.0744,552.3 343.2975,552.3 Q343.6912,552.3 343.9406,552.5363 Q344.19,552.7725 344.19,553.3238 L344.19,554.6363 Q344.19,555.1875 343.9538,555.4237 Q343.7175,555.66 343.35,555.66 Q343.0219,555.66 342.8119,555.5156 Q342.6019,555.3713 342.51,554.9906 Q342.4706,554.7281 342.3262,554.5838 Q342.0637,554.3081 341.5913,554.1506 Q341.1188,553.98 340.6463,553.98 Q340.0556,553.98 339.5569,554.2163 Q339.0712,554.4525 338.6906,554.9775 Q338.31,555.5025 338.31,556.2244 L338.31,556.9988 Q338.31,557.865 339.0188,558.4425 Q339.7275,559.02 340.9875,559.02 Q341.7356,559.02 342.2606,558.8494 Q342.5625,558.7575 342.9038,558.4556 Q343.1269,558.285 343.245,558.2325 Q343.3631,558.18 343.5075,558.18 Q343.7831,558.18 343.98,558.4031 Q344.19,558.6131 344.19,558.915 Q344.19,559.2038 343.9013,559.545 Q343.4813,560.0437 342.8119,560.3194 Q341.9325,560.7 340.8563,560.7 Q339.5963,560.7 338.5856,560.2013 Q337.7719,559.8075 337.1944,558.9544 Q336.63,558.1012 336.63,557.0906 L336.63,556.1719 Q336.63,555.1219 337.1287,554.2031 Q337.6406,553.2844 338.52,552.7987 Q339.4125,552.3 340.41,552.3 Q341.0137,552.3 341.5388,552.51 Q342.0637,552.72 342.51,553.14 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="67.2" x="358.05" y="560.157">UserAccount</text><line style="stroke:#181818;stroke-width:0.42;" x1="259.56" x2="496.44" y1="569.52" y2="569.52"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="46.2" x="263.76" y="583.526">-id : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="96.6" x="263.76" y="596.6641">-username : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="120.96" x="263.76" y="609.8023">-hashPassword : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="97.44" x="263.76" y="622.9404">-isActive : boolean</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="82.32" x="263.76" y="636.0785">-role : RoleEum</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="263.76" y="649.2166">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="263.76" y="662.3548">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="259.56" x2="496.44" y1="668.2069" y2="668.2069"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="228.48" x="263.76" y="682.2129">+getOneUserAccount() : UserAccountEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="225.12" x="263.76" y="695.351">+getAllUserAccount() : UserAccountEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="222.6" x="263.76" y="708.4891">+createUserAccount() : UserAccountEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="151.2" x="263.76" y="721.6273">+updateUserAccount() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="147" x="263.76" y="734.7654">+deleteUserAccount() : void</text></g><!--MD5=[db6d18d8099558415abc41d00477ab92]
+class Admin--><g id="elem_Admin"><rect codeLine="31" fill="#F1F1F1" height="224.2538" id="Admin" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="169.68" x="293.16" y="228.48"/><ellipse cx="358.05" cy="241.92" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M359.73,238.98 Q359.9006,238.56 360.0975,238.35 Q360.2944,238.14 360.5175,238.14 Q360.9113,238.14 361.1606,238.3763 Q361.41,238.6125 361.41,239.1638 L361.41,240.4763 Q361.41,241.0275 361.1738,241.2638 Q360.9375,241.5 360.57,241.5 Q360.2419,241.5 360.0319,241.3556 Q359.8219,241.2112 359.73,240.8306 Q359.6906,240.5681 359.5463,240.4237 Q359.2838,240.1481 358.8113,239.9906 Q358.3388,239.82 357.8663,239.82 Q357.2756,239.82 356.7769,240.0562 Q356.2913,240.2925 355.9106,240.8175 Q355.53,241.3425 355.53,242.0644 L355.53,242.8388 Q355.53,243.705 356.2388,244.2825 Q356.9475,244.86 358.2075,244.86 Q358.9556,244.86 359.4806,244.6894 Q359.7825,244.5975 360.1238,244.2956 Q360.3469,244.125 360.465,244.0725 Q360.5831,244.02 360.7275,244.02 Q361.0031,244.02 361.2,244.2431 Q361.41,244.4531 361.41,244.755 Q361.41,245.0438 361.1213,245.385 Q360.7012,245.8838 360.0319,246.1594 Q359.1525,246.54 358.0762,246.54 Q356.8162,246.54 355.8056,246.0413 Q354.9919,245.6475 354.4144,244.7944 Q353.85,243.9413 353.85,242.9306 L353.85,242.0119 Q353.85,240.9619 354.3488,240.0431 Q354.8606,239.1244 355.74,238.6388 Q356.6325,238.14 357.63,238.14 Q358.2338,238.14 358.7587,238.35 Q359.2838,238.56 359.73,238.98 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="32.76" x="375.27" y="245.997">Admin</text><line style="stroke:#181818;stroke-width:0.42;" x1="294" x2="462" y1="255.36" y2="255.36"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="46.2" x="298.2" y="269.366">-id : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="73.08" x="298.2" y="282.5041">-name : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.88" x="298.2" y="295.6423">-surname : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="77.28" x="298.2" y="308.7804">-phone : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="71.4" x="298.2" y="321.9185">-email : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="85.68" x="298.2" y="335.0566">-addressId: uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="109.2" x="298.2" y="348.1948">-userAccountId: uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="298.2" y="361.3329">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="298.2" y="374.471">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="294" x2="462" y1="380.3231" y2="380.3231"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="159.6" x="298.2" y="394.3291">+getOneAdmin() : AdminEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="156.24" x="298.2" y="407.4673">+getAllAdmin() : AdminEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="153.72" x="298.2" y="420.6054">+createAdmin() : AdminEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="116.76" x="298.2" y="433.7435">+updateAdmin() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="112.56" x="298.2" y="446.8816">+deleteAdmin() : void</text></g><!--MD5=[3fd616f346a44cd59a91eb10b19e157c]
+class User--><g id="elem_User"><rect codeLine="49" fill="#F1F1F1" height="250.53" id="User" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="152.88" x="862.68" y="516.6"/><ellipse cx="923.37" cy="530.04" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M925.05,527.1 Q925.2206,526.68 925.4175,526.47 Q925.6144,526.26 925.8375,526.26 Q926.2312,526.26 926.4806,526.4963 Q926.73,526.7325 926.73,527.2837 L926.73,528.5962 Q926.73,529.1475 926.4938,529.3838 Q926.2575,529.62 925.89,529.62 Q925.5619,529.62 925.3519,529.4756 Q925.1419,529.3313 925.05,528.9506 Q925.0106,528.6881 924.8662,528.5437 Q924.6038,528.2681 924.1312,528.1106 Q923.6587,527.94 923.1863,527.94 Q922.5956,527.94 922.0969,528.1763 Q921.6112,528.4125 921.2306,528.9375 Q920.85,529.4625 920.85,530.1844 L920.85,530.9588 Q920.85,531.825 921.5587,532.4025 Q922.2675,532.98 923.5275,532.98 Q924.2756,532.98 924.8006,532.8094 Q925.1025,532.7175 925.4437,532.4156 Q925.6669,532.245 925.785,532.1925 Q925.9031,532.14 926.0475,532.14 Q926.3231,532.14 926.52,532.3631 Q926.73,532.5731 926.73,532.875 Q926.73,533.1637 926.4413,533.505 Q926.0213,534.0038 925.3519,534.2794 Q924.4725,534.66 923.3963,534.66 Q922.1363,534.66 921.1256,534.1613 Q920.3119,533.7675 919.7344,532.9144 Q919.17,532.0613 919.17,531.0506 L919.17,530.1319 Q919.17,529.0819 919.6687,528.1631 Q920.1806,527.2444 921.06,526.7588 Q921.9525,526.26 922.95,526.26 Q923.5537,526.26 924.0788,526.47 Q924.6038,526.68 925.05,527.1 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="24.36" x="940.59" y="534.117">User</text><line style="stroke:#181818;stroke-width:0.42;" x1="863.52" x2="1014.72" y1="543.48" y2="543.48"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="46.2" x="867.72" y="557.486">-id : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="99.96" x="867.72" y="570.6241">-shopName : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="104.16" x="867.72" y="583.7623">-shopOwner : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="77.28" x="867.72" y="596.9004">-phone : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="71.4" x="867.72" y="610.0385">-email : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="62.16" x="867.72" y="623.1766">-img : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="82.32" x="867.72" y="636.3148">-role : RoleEum</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="85.68" x="867.72" y="649.4529">-addressId: uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="109.2" x="867.72" y="662.591">-userAccountId: uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="867.72" y="675.7291">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="867.72" y="688.8673">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="863.52" x2="1014.72" y1="694.7194" y2="694.7194"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="142.8" x="867.72" y="708.7254">+getOneUser() : UserEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="139.44" x="867.72" y="721.8635">+getAllUser() : UserEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="136.92" x="867.72" y="735.0016">+createUser() : UserEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="108.36" x="867.72" y="748.1398">+updateUser() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="104.16" x="867.72" y="761.2779">+deleteUser() : void</text></g><!--MD5=[6a70b97d4bdd4fae93e5ca72a4dac6ea]
+class RoleEum--><g id="elem_RoleEum"><rect codeLine="69" fill="#F1F1F1" height="66.5963" id="RoleEum" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="74.76" x="527.1" y="608.58"/><ellipse cx="539.7" cy="622.02" fill="#EB937F" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M538.44,622.86 L538.44,624.54 L541.8,624.54 L541.8,623.7 L541.8,623.2931 L542.325,622.86 L542.64,622.86 L542.955,622.86 L543.48,623.2931 L543.48,623.7 L543.48,626.22 L536.76,626.22 L536.3531,626.22 L535.92,625.695 L535.92,625.38 L535.92,625.065 L536.3531,624.54 L536.76,624.54 L536.76,624.54 L536.76,619.5 L536.76,619.5 L536.3531,619.5 L535.92,618.975 L535.92,618.66 L535.92,618.345 L536.3531,617.82 L536.76,617.82 L543.48,617.82 L543.48,620.34 L543.48,620.7469 L542.955,621.18 L542.64,621.18 L542.325,621.18 L541.8,620.7469 L541.8,620.34 L541.8,619.5 L538.44,619.5 L538.44,621.18 L539.28,621.18 L539.28,620.7731 L539.28,620.7731 L539.805,620.34 L540.12,620.34 L540.435,620.34 L540.96,620.7731 L540.96,621.18 L540.96,622.86 L540.96,623.2669 L540.435,623.7 L540.435,623.7 L540.12,623.7 L539.805,623.7 L539.28,623.2669 L539.28,623.2669 L539.28,622.86 L538.44,622.86 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="47.88" x="551.46" y="626.097">RoleEum</text><line style="stroke:#181818;stroke-width:0.42;" x1="527.94" x2="601.02" y1="635.46" y2="635.46"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="35.28" x="532.14" y="649.466">-USER</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="39.48" x="532.14" y="662.6041">-ADMIN</text><line style="stroke:#181818;stroke-width:0.42;" x1="527.94" x2="601.02" y1="668.4563" y2="668.4563"/></g><!--MD5=[0f39e4cb6f03951afbf6d14bd2505654]
+class Address--><g id="elem_Address"><rect codeLine="74" fill="#F1F1F1" height="289.9444" id="Address" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="191.52" x="843.36" y="818.16"/><ellipse cx="913.71" cy="831.6" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M915.39,828.66 Q915.5606,828.24 915.7575,828.03 Q915.9544,827.82 916.1775,827.82 Q916.5713,827.82 916.8206,828.0563 Q917.07,828.2925 917.07,828.8438 L917.07,830.1563 Q917.07,830.7075 916.8338,830.9438 Q916.5975,831.18 916.23,831.18 Q915.9019,831.18 915.6919,831.0356 Q915.4819,830.8913 915.39,830.5106 Q915.3506,830.2481 915.2063,830.1038 Q914.9438,829.8281 914.4712,829.6706 Q913.9988,829.5 913.5263,829.5 Q912.9356,829.5 912.4369,829.7362 Q911.9513,829.9725 911.5706,830.4975 Q911.19,831.0225 911.19,831.7444 L911.19,832.5188 Q911.19,833.385 911.8988,833.9625 Q912.6075,834.54 913.8675,834.54 Q914.6156,834.54 915.1406,834.3694 Q915.4425,834.2775 915.7837,833.9756 Q916.0069,833.805 916.125,833.7525 Q916.2431,833.7 916.3875,833.7 Q916.6631,833.7 916.86,833.9231 Q917.07,834.1331 917.07,834.435 Q917.07,834.7238 916.7813,835.065 Q916.3612,835.5637 915.6919,835.8394 Q914.8125,836.22 913.7362,836.22 Q912.4762,836.22 911.4656,835.7212 Q910.6519,835.3275 910.0744,834.4744 Q909.51,833.6212 909.51,832.6106 L909.51,831.6919 Q909.51,830.6419 910.0088,829.7231 Q910.5206,828.8044 911.4,828.3188 Q912.2925,827.82 913.29,827.82 Q913.8938,827.82 914.4187,828.03 Q914.9438,828.24 915.39,828.66 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="43.68" x="930.93" y="835.677">Address</text><line style="stroke:#181818;stroke-width:0.42;" x1="844.2" x2="1034.04" y1="845.04" y2="845.04"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="46.2" x="848.4" y="859.046">-id : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="87.36" x="848.4" y="872.1841">-houseNo: string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="70.56" x="848.4" y="885.3223">-village:string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="88.2" x="848.4" y="898.4604">-villageNo: string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="63" x="848.4" y="911.5985">-lane: string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="68.04" x="848.4" y="924.7366">-road : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="95.76" x="848.4" y="937.8748">-subDistrict: string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="74.76" x="848.4" y="951.0129">-district: string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="848.4" y="964.151">-province : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="83.16" x="848.4" y="977.2891">-zipCode: string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="56.28" x="848.4" y="990.4273">-lat : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="59.64" x="848.4" y="1003.5654">-lng : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="848.4" y="1016.7035">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="848.4" y="1029.8416">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="844.2" x2="1034.04" y1="1035.6938" y2="1035.6938"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="181.44" x="848.4" y="1049.6998">+getOneAddress() : AddressEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="178.08" x="848.4" y="1062.8379">+getAllAddress() : AddressEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="175.56" x="848.4" y="1075.976">+createAddress() : AddressEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="127.68" x="848.4" y="1089.1141">+updateAddress() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="123.48" x="848.4" y="1102.2523">+deleteAddress() : void</text></g><!--MD5=[72136138052d025cffdce3c22fbd185f]
+class Product--><g id="elem_Product"><rect codeLine="97" fill="#F1F1F1" height="211.1156" id="Product" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="186.48" x="742.56" y="235.2"/><ellipse cx="811.65" cy="248.64" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M813.33,245.7 Q813.5006,245.28 813.6975,245.07 Q813.8944,244.86 814.1175,244.86 Q814.5113,244.86 814.7606,245.0963 Q815.01,245.3325 815.01,245.8838 L815.01,247.1963 Q815.01,247.7475 814.7738,247.9838 Q814.5375,248.22 814.17,248.22 Q813.8419,248.22 813.6319,248.0756 Q813.4219,247.9312 813.33,247.5506 Q813.2906,247.2881 813.1463,247.1437 Q812.8838,246.8681 812.4113,246.7106 Q811.9387,246.54 811.4663,246.54 Q810.8756,246.54 810.3769,246.7763 Q809.8913,247.0125 809.5106,247.5375 Q809.13,248.0625 809.13,248.7844 L809.13,249.5588 Q809.13,250.425 809.8388,251.0025 Q810.5475,251.58 811.8075,251.58 Q812.5556,251.58 813.0806,251.4094 Q813.3825,251.3175 813.7238,251.0156 Q813.9469,250.845 814.065,250.7925 Q814.1831,250.74 814.3275,250.74 Q814.6031,250.74 814.8,250.9631 Q815.01,251.1731 815.01,251.475 Q815.01,251.7638 814.7212,252.105 Q814.3013,252.6038 813.6319,252.8794 Q812.7525,253.26 811.6763,253.26 Q810.4163,253.26 809.4056,252.7613 Q808.5919,252.3675 808.0144,251.5144 Q807.45,250.6613 807.45,249.6506 L807.45,248.7319 Q807.45,247.6819 807.9488,246.7631 Q808.4606,245.8444 809.34,245.3588 Q810.2325,244.86 811.23,244.86 Q811.8338,244.86 812.3588,245.07 Q812.8838,245.28 813.33,245.7 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="41.16" x="828.87" y="252.717">Product</text><line style="stroke:#181818;stroke-width:0.42;" x1="743.4" x2="928.2" y1="262.08" y2="262.08"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="46.2" x="747.6" y="276.086">-id : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="73.08" x="747.6" y="289.2241">-name : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="80.64" x="747.6" y="302.3623">-price : decimal</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="68.88" x="747.6" y="315.5004">-desc : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="106.68" x="747.6" y="328.6385">-categoryId: number</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="66.36" x="747.6" y="341.7766">-userId: uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="747.6" y="354.9148">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="747.6" y="368.0529">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="743.4" x2="928.2" y1="373.905" y2="373.905"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="176.4" x="747.6" y="387.911">+getOneProduct() : ProductEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="173.04" x="747.6" y="401.0491">+getAllProduct() : ProductEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="170.52" x="747.6" y="414.1873">+createProduct() : ProductEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="125.16" x="747.6" y="427.3254">+updateProduct() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="120.96" x="747.6" y="440.4635">+deleteProduct() : void</text></g><!--MD5=[638658a6748aae92dbe5884a4d4bd659]
+class ProductImage--><g id="elem_ProductImage"><rect codeLine="114" fill="#F1F1F1" height="171.7013" id="ProductImage" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="250.32" x="710.64" y="5.88"/><ellipse cx="795.69" cy="19.32" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M797.37,16.38 Q797.5406,15.96 797.7375,15.75 Q797.9344,15.54 798.1575,15.54 Q798.5513,15.54 798.8006,15.7763 Q799.05,16.0125 799.05,16.5638 L799.05,17.8763 Q799.05,18.4275 798.8137,18.6638 Q798.5775,18.9 798.21,18.9 Q797.8819,18.9 797.6719,18.7556 Q797.4619,18.6113 797.37,18.2306 Q797.3306,17.9681 797.1863,17.8238 Q796.9237,17.5481 796.4513,17.3906 Q795.9788,17.22 795.5063,17.22 Q794.9156,17.22 794.4169,17.4563 Q793.9313,17.6925 793.5506,18.2175 Q793.17,18.7425 793.17,19.4644 L793.17,20.2388 Q793.17,21.105 793.8788,21.6825 Q794.5875,22.26 795.8475,22.26 Q796.5956,22.26 797.1206,22.0894 Q797.4225,21.9975 797.7638,21.6956 Q797.9869,21.525 798.105,21.4725 Q798.2231,21.42 798.3675,21.42 Q798.6431,21.42 798.84,21.6431 Q799.05,21.8531 799.05,22.155 Q799.05,22.4437 798.7613,22.785 Q798.3413,23.2837 797.6719,23.5594 Q796.7925,23.94 795.7163,23.94 Q794.4563,23.94 793.4456,23.4413 Q792.6319,23.0475 792.0544,22.1944 Q791.49,21.3413 791.49,20.3306 L791.49,19.4119 Q791.49,18.3619 791.9888,17.4431 Q792.5006,16.5244 793.38,16.0388 Q794.2725,15.54 795.27,15.54 Q795.8738,15.54 796.3988,15.75 Q796.9237,15.96 797.37,16.38 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="73.08" x="812.91" y="23.397">ProductImage</text><line style="stroke:#181818;stroke-width:0.42;" x1="711.48" x2="960.12" y1="32.76" y2="32.76"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="46.2" x="715.68" y="46.766">-id : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="75.6" x="715.68" y="59.9041">-image : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="86.52" x="715.68" y="73.0423">-productId : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="715.68" y="86.1804">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="715.68" y="99.3185">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="711.48" x2="960.12" y1="105.1706" y2="105.1706"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="240.24" x="715.68" y="119.1766">+getOneProductImage() : ProductImageEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="236.88" x="715.68" y="132.3148">+getAllProductImage() : ProductImageEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="234.36" x="715.68" y="145.4529">+createProductImage() : ProductImageEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="157.08" x="715.68" y="158.591">+updateProductImage() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="152.88" x="715.68" y="171.7291">+deleteProductImage() : void</text></g><!--MD5=[a96594a83e2ecdc78cbf17c2ddf01934]
+class Category--><g id="elem_Category"><rect codeLine="128" fill="#F1F1F1" height="184.8394" id="Category" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="201.6" x="631.68" y="549.36"/><ellipse cx="704.55" cy="562.8" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M706.23,559.86 Q706.4006,559.44 706.5975,559.23 Q706.7944,559.02 707.0175,559.02 Q707.4113,559.02 707.6606,559.2563 Q707.91,559.4925 707.91,560.0437 L707.91,561.3562 Q707.91,561.9075 707.6737,562.1438 Q707.4375,562.38 707.07,562.38 Q706.7419,562.38 706.5319,562.2356 Q706.3219,562.0913 706.23,561.7106 Q706.1906,561.4481 706.0463,561.3037 Q705.7837,561.0281 705.3113,560.8706 Q704.8388,560.7 704.3662,560.7 Q703.7756,560.7 703.2769,560.9363 Q702.7913,561.1725 702.4106,561.6975 Q702.03,562.2225 702.03,562.9444 L702.03,563.7188 Q702.03,564.585 702.7388,565.1625 Q703.4475,565.74 704.7075,565.74 Q705.4556,565.74 705.9806,565.5694 Q706.2825,565.4775 706.6238,565.1756 Q706.8469,565.005 706.965,564.9525 Q707.0831,564.9 707.2275,564.9 Q707.5031,564.9 707.7,565.1231 Q707.91,565.3331 707.91,565.635 Q707.91,565.9237 707.6212,566.265 Q707.2013,566.7638 706.5319,567.0394 Q705.6525,567.42 704.5763,567.42 Q703.3163,567.42 702.3056,566.9213 Q701.4919,566.5275 700.9144,565.6744 Q700.35,564.8213 700.35,563.8106 L700.35,562.8919 Q700.35,561.8419 700.8488,560.9231 Q701.3606,560.0044 702.24,559.5188 Q703.1325,559.02 704.13,559.02 Q704.7338,559.02 705.2588,559.23 Q705.7837,559.44 706.23,559.86 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="48.72" x="721.77" y="566.877">Category</text><line style="stroke:#181818;stroke-width:0.42;" x1="632.52" x2="832.44" y1="576.24" y2="576.24"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="63.84" x="636.72" y="590.246">-id : number</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="73.08" x="636.72" y="603.3841">-name : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="68.88" x="636.72" y="616.5223">-desc : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="72.24" x="636.72" y="629.6604">-image: string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="636.72" y="642.7985">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="636.72" y="655.9366">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="632.52" x2="832.44" y1="661.7887" y2="661.7887"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="191.52" x="636.72" y="675.7948">+getOneCategory() : CategoryEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="188.16" x="636.72" y="688.9329">+getAllCategory() : CategoryEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="185.64" x="636.72" y="702.071">+createCategory() : CategoryEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="132.72" x="636.72" y="715.2091">+updateCategory() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="128.52" x="636.72" y="728.3473">+deleteCategory() : void</text></g><!--MD5=[a36d648812f934b36d05bf0cd5320ae2]
+class IndigoTone--><g id="elem_IndigoTone"><rect codeLine="144" fill="#F1F1F1" height="224.2538" id="IndigoTone" rx="2.1" ry="2.1" style="stroke:#181818;stroke-width:0.42;" width="223.44" x="5.88" y="529.62"/><ellipse cx="84.21" cy="543.06" fill="#ADD1B2" rx="9.24" ry="9.24" style="stroke:#181818;stroke-width:0.84;"/><path d="M85.89,540.12 Q86.0606,539.7 86.2575,539.49 Q86.4544,539.28 86.6775,539.28 Q87.0712,539.28 87.3206,539.5163 Q87.57,539.7525 87.57,540.3038 L87.57,541.6163 Q87.57,542.1675 87.3338,542.4038 Q87.0975,542.64 86.73,542.64 Q86.4019,542.64 86.1919,542.4956 Q85.9819,542.3512 85.89,541.9706 Q85.8506,541.7081 85.7063,541.5638 Q85.4438,541.2881 84.9713,541.1306 Q84.4988,540.96 84.0262,540.96 Q83.4356,540.96 82.9369,541.1963 Q82.4513,541.4325 82.0706,541.9575 Q81.69,542.4825 81.69,543.2044 L81.69,543.9788 Q81.69,544.845 82.3987,545.4225 Q83.1075,546 84.3675,546 Q85.1156,546 85.6406,545.8294 Q85.9425,545.7375 86.2838,545.4356 Q86.5069,545.265 86.625,545.2125 Q86.7431,545.16 86.8875,545.16 Q87.1631,545.16 87.36,545.3831 Q87.57,545.5931 87.57,545.895 Q87.57,546.1838 87.2813,546.525 Q86.8613,547.0238 86.1919,547.2994 Q85.3125,547.68 84.2363,547.68 Q82.9763,547.68 81.9656,547.1813 Q81.1519,546.7875 80.5744,545.9344 Q80.01,545.0813 80.01,544.0706 L80.01,543.1519 Q80.01,542.1019 80.5087,541.1831 Q81.0206,540.2644 81.9,539.7788 Q82.7925,539.28 83.79,539.28 Q84.3938,539.28 84.9188,539.49 Q85.4438,539.7 85.89,540.12 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="59.64" x="101.43" y="547.137">IndigoTone</text><line style="stroke:#181818;stroke-width:0.42;" x1="6.72" x2="228.48" y1="556.5" y2="556.5"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="46.2" x="10.92" y="570.506">-id : uuid</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="73.08" x="10.92" y="583.6441">-name : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="64.68" x="10.92" y="596.7823">-ccid : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="62.16" x="10.92" y="609.9204">-hex : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="61.32" x="10.92" y="623.0585">-red : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="74.76" x="10.92" y="636.1966">-green : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="66.36" x="10.92" y="649.3348">-blue : string</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="89.04" x="10.92" y="662.4729">-createdAt : date</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="92.4" x="10.92" y="675.611">-updatedAt : date</text><line style="stroke:#181818;stroke-width:0.42;" x1="6.72" x2="228.48" y1="681.4631" y2="681.4631"/><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="213.36" x="10.92" y="695.4691">+getOneIndigoTone() : IndigoToneEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="210" x="10.92" y="708.6073">+getAllIndigoTone() : IndigoToneEntity[]</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="207.48" x="10.92" y="721.7454">+createIndigoTone() : IndigoToneEntity</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="143.64" x="10.92" y="734.8835">+updateIndigoTone() : void</text><text fill="#000000" font-family="sans-serif" font-size="11.76" lengthAdjust="spacing" textLength="139.44" x="10.92" y="748.0216">+deleteIndigoTone() : void</text></g><!--MD5=[9a03afebe274e4b677a3b5b7288687f6]
+link UserAccount to RoleEum--><g id="link_UserAccount_RoleEum"><path codeLine="164" d="M497.4648,641.76 C505.8564,641.76 514.2564,641.76 522.6564,641.76 " fill="none" id="UserAccount-to-RoleEum" style="stroke:#181818;stroke-width:0.84;"/><polygon fill="#181818" points="527.0412,641.76,519.4812,638.4,522.8412,641.76,519.4812,645.12,527.0412,641.76" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="4.2" x="504.1129" y="639.5832">*</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="514.4735" y="638.9286">1</text></g><!--MD5=[6cb56ad2db0e14266f83041296b08dce]
+link User to Address--><g id="link_User_Address"><path codeLine="166" d="M939.12,767.088 C939.12,780.1668 939.12,793.5732 939.12,806.946 " fill="none" id="User-to-Address" style="stroke:#181818;stroke-width:0.84;"/><polygon fill="none" points="939.12,818.1516,942.48,813.1116,939.12,808.0716,935.76,813.1116,939.12,818.1516" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="933.0884" y="783.7449">1</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="933.0976" y="808.9805">1</text></g><!--MD5=[acc5d6138a8093b722b97abeb547904e]
+reverse link UserAccount to User--><g id="link_UserAccount_User"><path codeLine="167" d="M456.6912,534.5676 C477.1536,514.2984 500.9088,495.9276 527.1,484.68 C589.7052,457.7916 773.5812,452.6256 833.7,484.68 C848.6268,492.6348 861.8148,503.748 873.3564,516.432 " fill="none" id="UserAccount-backto-User" style="stroke:#181818;stroke-width:0.84;"/><polygon fill="#181818" points="449.0052,542.4216,454.9306,541.1645,456.0493,535.2114,450.1238,536.4685,449.0052,542.4216" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="447.6983" y="533.5014">1</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="863.7192" y="507.3884">1</text></g><!--MD5=[0927e2f55b3f57f64d0ed91b540b5ff6]
+link Product to User--><g id="link_Product_User"><path codeLine="169" d="M871.9368,446.1996 C879.7656,468.8796 888.1152,493.0884 896.1708,516.4488 " fill="none" id="Product-User" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="16.8" x="856.827" y="462.8823">0..*</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="887.7812" y="507.4061">1</text></g><!--MD5=[aefb2128b9882c7b1924ec6cfaf7c7d9]
+link Admin to UserAccount--><g id="link_Admin_UserAccount"><path codeLine="171" d="M378,452.97 C378,478.6068 378,505.848 378,531.4008 " fill="none" id="Admin-to-UserAccount" style="stroke:#181818;stroke-width:0.84;"/><polygon fill="#181818" points="378,542.6232,381.36,537.5832,378,532.5432,374.64,537.5832,378,542.6232" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="371.9592" y="469.334">1</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="371.9225" y="533.7166">1</text></g><!--MD5=[0aeed699a046f381fe22fc93ab7d3a6a]
+link Admin to IndigoTone--><g id="link_Admin_IndigoTone"><path codeLine="173" d="M293.0928,439.1016 C268.0104,467.9472 240.366,499.7328 214.5864,529.3848 " fill="none" id="Admin-IndigoTone" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="38.64" x="257.04" y="488.6856">manage</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="280.487" y="444.3348">1</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="4.2" x="215.872" y="520.6872">*</text></g><!--MD5=[e1157d990c71223888f6eba0861fc13e]
+link Admin to Category--><g id="link_Admin_Category"><path codeLine="174" d="M462.9324,398.0004 C509.8632,430.6512 568.2768,473.6676 616.56,516.6 C628.026,526.7976 639.618,537.978 650.8152,549.3264 " fill="none" id="Admin-Category" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="38.64" x="586.32" y="488.6856">manage</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="469.6601" y="400.0868">1</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="4.2" x="640.4637" y="540.2468">*</text></g><!--MD5=[41043388d0f8d1cf0966079386e80353]
+link Product to Category--><g id="link_Product_Category"><path codeLine="176" d="M799.6632,446.1996 C789.306,476.2212 778.0248,508.9056 767.7264,538.7676 " fill="none" id="Product-to-Category" style="stroke:#181818;stroke-width:0.84;"/><polygon fill="#181818" points="764.1228,549.2088,768.944,545.5417,767.4132,539.681,762.5921,543.3481,764.1228,549.2088" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="16.8" x="780.1492" y="462.8823">0..*</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="760.261" y="540.4275">1</text></g><!--MD5=[c22ef2e6f9b5ecdf826afa5c59f0dd18]
+link ProductImage to Product--><g id="link_ProductImage_Product"><path codeLine="177" d="M835.8,177.534 C835.8,192.5112 835.8,208.32 835.8,223.9608 " fill="none" id="ProductImage-to-Product" style="stroke:#181818;stroke-width:0.84;"/><polygon fill="#181818" points="835.8,235.032,839.16,229.992,835.8,224.952,832.44,229.992,835.8,235.032" style="stroke:#181818;stroke-width:0.84;"/><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="16.8" x="818.3831" y="194.1687">1..*</text><text fill="#000000" font-family="sans-serif" font-size="10.92" lengthAdjust="spacing" textLength="5.88" x="829.7317" y="226.0219">1</text></g><!--MD5=[9e9289340f6186b35afc4c293d60a4ff]
+@startuml
+'https://plantuml.com/class-diagram
+!define VAR_SCALE 4
+scale VAR_SCALE
+
+'skinparam linetype polyline
+'skinparam linetype ortho
+
+skinparam classAttributeIconSize 0
+'Type	       Symbol
+'Extension	    <|- -
+'Composition	*- -
+'Aggregation	o- -
+'
+
+class UserAccount {
+    - id : uuid
+    - username : string
+    - hashPassword : string
+    - isActive : boolean
+    - role : RoleEum
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneUserAccount() : UserAccountEntity
+    + getAllUserAccount() : UserAccountEntity[]
+    + createUserAccount() : UserAccountEntity
+    + updateUserAccount() : void
+    + deleteUserAccount() : void
+}
+
+class Admin {
+    - id : uuid
+    - name : string
+    - surname : string
+    - phone : string
+    - email : string
+    - addressId: uuid
+    - userAccountId: uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneAdmin() : AdminEntity
+    + getAllAdmin() : AdminEntity[]
+    + createAdmin() : AdminEntity
+    + updateAdmin() : void
+    + deleteAdmin() : void
+}
+
+class User {
+    - id : uuid
+    - shopName : string
+    - shopOwner : string
+    - phone : string
+    - email : string
+    - img : string
+    - role : RoleEum
+    - addressId: uuid
+    - userAccountId: uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneUser() : UserEntity
+    + getAllUser() : UserEntity[]
+    + createUser() : UserEntity
+    + updateUser() : void
+    + deleteUser() : void
+}
+
+enum RoleEum {
+    - USER
+    - ADMIN
+}
+
+class Address {
+    - id : uuid
+    - houseNo: string
+    - village:string
+    - villageNo: string
+    - lane: string
+    - road : string
+    - subDistrict: string
+    - district: string
+    - province : string
+    - zipCode: string
+    - lat : string
+    - lng : string
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneAddress() : AddressEntity
+    + getAllAddress() : AddressEntity[]
+    + createAddress() : AddressEntity
+    + updateAddress() : void
+    + deleteAddress() : void
+}
+
+class Product {
+    - id : uuid
+    - name : string
+    - price : decimal
+    - desc : string
+    - categoryId: number
+    - userId: uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneProduct() : ProductEntity
+    + getAllProduct() : ProductEntity[]
+    + createProduct() : ProductEntity
+    + updateProduct() : void
+    + deleteProduct() : void
+}
+
+class ProductImage {
+    - id : uuid
+    - image : string
+    - productId : uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneProductImage() : ProductImageEntity
+    + getAllProductImage() : ProductImageEntity[]
+    + createProductImage() : ProductImageEntity
+    + updateProductImage() : void
+    + deleteProductImage() : void
+}
+
+class Category {
+    - id : number
+    - name : string
+    - desc : string
+    - image: string
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneCategory() : CategoryEntity
+    + getAllCategory() : CategoryEntity[]
+    + createCategory() : CategoryEntity
+    + updateCategory() : void
+    + deleteCategory() : void
+}
+
+
+class IndigoTone {
+    - id : uuid
+    - name : string
+    - ccid : string
+    - hex : string
+    - red : string
+    - green : string
+    - blue : string
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneIndigoTone() : IndigoToneEntity
+    + getAllIndigoTone() : IndigoToneEntity[]
+    + createIndigoTone() : IndigoToneEntity
+    + updateIndigoTone() : void
+    + deleteIndigoTone() : void
+}
+
+' ======================= Association Flow ===================
+
+UserAccount "*" -right-> "1" RoleEum
+
+User "1" - -o "1" Address
+User "1" -left-* "1" UserAccount
+
+Product "0..*" - - "1" User
+
+Admin "1" - -* "1" UserAccount
+
+Admin "1" - - "*" IndigoTone : "manage"
+Admin "1" - - "*" Category : "manage"
+
+Product "0..*" - -* "1" Category
+ProductImage "1..*" - -* "1" Product
+
+
+
+@enduml
+
+@startuml
+scale 4
+
+
+skinparam classAttributeIconSize 0
+
+class UserAccount {
+    - id : uuid
+    - username : string
+    - hashPassword : string
+    - isActive : boolean
+    - role : RoleEum
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneUserAccount() : UserAccountEntity
+    + getAllUserAccount() : UserAccountEntity[]
+    + createUserAccount() : UserAccountEntity
+    + updateUserAccount() : void
+    + deleteUserAccount() : void
+}
+
+class Admin {
+    - id : uuid
+    - name : string
+    - surname : string
+    - phone : string
+    - email : string
+    - addressId: uuid
+    - userAccountId: uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneAdmin() : AdminEntity
+    + getAllAdmin() : AdminEntity[]
+    + createAdmin() : AdminEntity
+    + updateAdmin() : void
+    + deleteAdmin() : void
+}
+
+class User {
+    - id : uuid
+    - shopName : string
+    - shopOwner : string
+    - phone : string
+    - email : string
+    - img : string
+    - role : RoleEum
+    - addressId: uuid
+    - userAccountId: uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneUser() : UserEntity
+    + getAllUser() : UserEntity[]
+    + createUser() : UserEntity
+    + updateUser() : void
+    + deleteUser() : void
+}
+
+enum RoleEum {
+    - USER
+    - ADMIN
+}
+
+class Address {
+    - id : uuid
+    - houseNo: string
+    - village:string
+    - villageNo: string
+    - lane: string
+    - road : string
+    - subDistrict: string
+    - district: string
+    - province : string
+    - zipCode: string
+    - lat : string
+    - lng : string
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneAddress() : AddressEntity
+    + getAllAddress() : AddressEntity[]
+    + createAddress() : AddressEntity
+    + updateAddress() : void
+    + deleteAddress() : void
+}
+
+class Product {
+    - id : uuid
+    - name : string
+    - price : decimal
+    - desc : string
+    - categoryId: number
+    - userId: uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneProduct() : ProductEntity
+    + getAllProduct() : ProductEntity[]
+    + createProduct() : ProductEntity
+    + updateProduct() : void
+    + deleteProduct() : void
+}
+
+class ProductImage {
+    - id : uuid
+    - image : string
+    - productId : uuid
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneProductImage() : ProductImageEntity
+    + getAllProductImage() : ProductImageEntity[]
+    + createProductImage() : ProductImageEntity
+    + updateProductImage() : void
+    + deleteProductImage() : void
+}
+
+class Category {
+    - id : number
+    - name : string
+    - desc : string
+    - image: string
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneCategory() : CategoryEntity
+    + getAllCategory() : CategoryEntity[]
+    + createCategory() : CategoryEntity
+    + updateCategory() : void
+    + deleteCategory() : void
+}
+
+
+class IndigoTone {
+    - id : uuid
+    - name : string
+    - ccid : string
+    - hex : string
+    - red : string
+    - green : string
+    - blue : string
+    - createdAt : date
+    - updatedAt : date
+
+    + getOneIndigoTone() : IndigoToneEntity
+    + getAllIndigoTone() : IndigoToneEntity[]
+    + createIndigoTone() : IndigoToneEntity
+    + updateIndigoTone() : void
+    + deleteIndigoTone() : void
+}
+
+
+UserAccount "*" -right-> "1" RoleEum
+
+User "1" - -o "1" Address
+User "1" -left-* "1" UserAccount
+
+Product "0..*" - - "1" User
+
+Admin "1" - -* "1" UserAccount
+
+Admin "1" - - "*" IndigoTone : "manage"
+Admin "1" - - "*" Category : "manage"
+
+Product "0..*" - -* "1" Category
+ProductImage "1..*" - -* "1" Product
+
+
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 00:01:30 ICT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

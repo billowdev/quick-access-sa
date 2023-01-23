@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1006.6px" preserveAspectRatio="none" style="width:1267px;height:1006px;background:#FFFFFF;" version="1.1" viewBox="0 0 1267 1006" width="1267.7px" zoomAndPan="magnify"><defs/><g><!--MD5=[0177ff062b524b99c50ef47862067ae4]
+cluster The development of management system for connecting color scheme of natural indigo dye with indigo textile production sites--><g id="cluster_The development of management system for connecting color scheme of natural indigo dye with indigo textile production sites"><rect fill="none" height="576.8" rx="1.75" ry="1.75" style="stroke:#181818;stroke-width:0.6999999999999998;" width="1186.5" x="77" y="150.5"/><text fill="#000000" font-family="sans-serif" font-size="9.8" font-weight="bold" lengthAdjust="spacing" textLength="623" x="358.75" y="160.7717">The development of management system for connecting color scheme of natural indigo dye with indigo textile production sites</text></g><g id="elem_usecaseProfile"><ellipse cx="302.7937" cy="357.0417" fill="#F1F1F1" rx="27.3437" ry="9.8417" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="27.3" x="289.1437" y="359.0392">profile</text></g><g id="elem_usecaseCreateProfile"><ellipse cx="137.0042" cy="449.2908" fill="#F1F1F1" rx="45.3042" ry="10.7408" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="58.1" x="105.8542" y="451.8017">create profile</text></g><g id="elem_usecaseViewProfile"><ellipse cx="136.998" cy="311.4596" fill="#F1F1F1" rx="42.148" ry="10.1096" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="49" x="110.398" y="313.9704">view profile</text></g><g id="elem_usecaseUpdateProfile"><ellipse cx="136.9807" cy="357.0961" fill="#F1F1F1" rx="46.3307" ry="10.9461" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="60.9" x="104.9432" y="359.4956">update profile</text></g><g id="elem_usecaseDeleteProfile"><ellipse cx="136.7526" cy="403.0405" fill="#F1F1F1" rx="45.0526" ry="10.6905" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="57.4" x="105.9526" y="405.5514">delete profile</text></g><g id="elem_usecaseUserAccount"><ellipse cx="831.8526" cy="257.4405" fill="#F1F1F1" rx="45.0526" ry="10.6905" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="57.4" x="801.0526" y="259.9514">user account</text></g><g id="elem_usecaseAuthentication"><ellipse cx="646.0581" cy="211.2516" fill="#F1F1F1" rx="46.8581" ry="11.0516" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="62.3" x="613.6112" y="213.5841">authentication</text></g><g id="elem_usecaseLogin"><ellipse cx="460.8496" cy="220.6202" fill="#F1F1F1" rx="39.0996" ry="9.9202" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="43.4" x="437.0496" y="223.1311">user login</text></g><g id="elem_usecaseRegister"><ellipse cx="461.0534" cy="265.3907" fill="#F1F1F1" rx="44.5534" ry="10.5907" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="56" x="430.9534" y="267.9015">user register</text></g><g id="elem_usecaseLogout"><ellipse cx="460.9813" cy="310.8063" fill="#F1F1F1" rx="42.3813" ry="10.1563" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="49.7" x="434.0313" y="313.3171">user logout</text></g><g id="elem_usecaseDeleteUserAccount"><ellipse cx="646.1313" cy="257.6063" fill="#F1F1F1" rx="42.3813" ry="10.1563" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="49.7" x="619.1813" y="260.1171">delete user</text></g><g id="elem_usecaseViewUserAccount"><ellipse cx="1012.2949" cy="277.3082" fill="#F1F1F1" rx="37.5449" ry="9.9082" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="41.3" x="989.5449" y="279.819">view user</text></g><g id="elem_usecaseUpdateUserAccount"><ellipse cx="646.2726" cy="302.9945" fill="#F1F1F1" rx="43.5726" ry="10.3945" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="53.2" x="617.5726" y="305.5054">update user</text></g><g id="elem_usecaseCreateUserAccount"><ellipse cx="1012.1163" cy="232.4533" fill="#F1F1F1" rx="42.6163" ry="10.2033" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="50.4" x="984.8163" y="234.9641">create user</text></g><g id="elem_usecaseIndigoTone"><ellipse cx="461.098" cy="576.0596" fill="#F1F1F1" rx="42.148" ry="10.1096" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="49" x="434.498" y="578.5704">Indigo tone</text></g><g id="elem_usecaseViewIndigoTone"><ellipse cx="646.2476" cy="558.7695" fill="#F1F1F1" rx="50.1976" ry="11.7195" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="70.7" x="610.8976" y="560.767">view indigo tone</text></g><g id="elem_usecaseCreateIndigoTone"><ellipse cx="646.2036" cy="509.4807" fill="#F1F1F1" rx="54.0036" ry="12.4807" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="79.8" x="606.3036" y="511.4782">create indigo tone</text></g><g id="elem_usecaseUpdateIndigoTone"><ellipse cx="645.9983" cy="656.7197" fill="#F1F1F1" rx="55.1983" ry="12.7197" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="82.6" x="604.6983" y="658.7171">update indigo tone</text></g><g id="elem_usecaseDeleteIndigoTone"><ellipse cx="646.2566" cy="607.0713" fill="#F1F1F1" rx="53.7066" ry="12.4213" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="79.1" x="606.7066" y="609.0688">delete indigo tone</text></g><g id="elem_usecaseProduct"><ellipse cx="302.761" cy="557.258" fill="#F1F1F1" rx="31.861" ry="9.858" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="33.6" x="284.5981" y="559.6107">product</text></g><g id="elem_usecaseCreateProduct"><ellipse cx="136.9159" cy="509.6132" fill="#F1F1F1" rx="47.6659" ry="11.2132" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="64.4" x="103.8421" y="511.843">create product</text></g><g id="elem_usecaseViewProduct"><ellipse cx="460.806" cy="646.8412" fill="#F1F1F1" rx="44.306" ry="10.5412" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="55.3" x="431.056" y="649.352">view product</text></g><g id="elem_usecaseUpdateProduct"><ellipse cx="136.9727" cy="557.0845" fill="#F1F1F1" rx="48.7727" ry="11.4345" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="67.2" x="103.04" y="559.1739">update product</text></g><g id="elem_usecaseDeleteProduct"><ellipse cx="136.9944" cy="604.7589" fill="#F1F1F1" rx="47.3944" ry="11.1589" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="63.7" x="104.1313" y="607.0232">delete product</text></g><g id="elem_usecaseCategory"><ellipse cx="1012.3222" cy="407.4905" fill="#F1F1F1" rx="35.4722" ry="9.8905" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="38.5" x="990.9722" y="410.0013">category</text></g><g id="elem_usecaseCreateCategory"><ellipse cx="1201.4737" cy="359.8547" fill="#F1F1F1" rx="49.6237" ry="11.6047" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="69.3" x="1166.8237" y="361.8522">create category</text></g><g id="elem_usecaseViewCategory"><ellipse cx="1201.4206" cy="646.8441" fill="#F1F1F1" rx="46.0706" ry="10.8941" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="60.2" x="1169.585" y="649.2766">view category</text></g><g id="elem_usecaseUpdateCategory"><ellipse cx="1201.5748" cy="455.635" fill="#F1F1F1" rx="50.7748" ry="11.835" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="72.1" x="1165.5248" y="457.6324">update category</text></g><g id="elem_usecaseDeleteCategory"><ellipse cx="1201.5381" cy="407.3976" fill="#F1F1F1" rx="49.3381" ry="11.5476" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="68.6" x="1167.1668" y="409.4152">delete category</text></g><g id="elem_usecaseMap"><ellipse cx="1012.2544" cy="596.3409" fill="#F1F1F1" rx="49.0544" ry="11.4909" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="67.9" x="978.1032" y="598.3944">Interaction Map</text></g><g id="elem_usecaseViewMap"><ellipse cx="1201.4767" cy="701.5039" fill="#F1F1F1" rx="37.0267" ry="9.9039" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="40.6" x="1179.0767" y="704.0148">view map</text></g><g id="elem_usecaseAddress"><ellipse cx="832.1007" cy="508.9708" fill="#F1F1F1" rx="33.4007" ry="9.8708" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="35.7" x="812.3366" y="511.4435">address</text></g><g id="elem_usecaseCreateAddress"><ellipse cx="1012.0429" cy="532.5286" fill="#F1F1F1" rx="48.4929" ry="11.3786" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="66.5" x="978.3274" y="534.6534">create address</text></g><g id="elem_usecaseViewAddress"><ellipse cx="646.0026" cy="435.2405" fill="#F1F1F1" rx="45.0526" ry="10.6905" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="57.4" x="615.2026" y="437.7514">view address</text></g><g id="elem_usecaseUpdateAddress"><ellipse cx="1012.1237" cy="485.1547" fill="#F1F1F1" rx="49.6237" ry="11.6047" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="69.3" x="977.4737" y="487.1522">update address</text></g><g id="elem_usecaseDeleteAddress"><ellipse cx="646.0152" cy="705.023" fill="#F1F1F1" rx="48.2152" ry="11.323" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="65.8" x="612.5151" y="707.1832">delete address</text></g><g id="elem_usecasePinMapAddress"><ellipse cx="1201.5913" cy="596.5483" fill="#F1F1F1" rx="43.0913" ry="10.2983" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="51.8" x="1173.5913" y="599.0591">pin address</text></g><!--MD5=[b79319c2d8b705b75aef8145be9559bc]
+entity actorUser--><g id="elem_actorUser"><ellipse cx="460.95" cy="85.05" fill="#F1F1F1" rx="5.6" ry="5.6" style="stroke:#181818;stroke-width:0.3499999999999999;"/><path d="M460.95,90.65 L460.95,109.55 M451.85,96.25 L470.05,96.25 M460.95,109.55 L451.85,120.05 M460.95,109.55 L470.05,120.05 " fill="none" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="50.4" x="435.75" y="129.9717">group/shop</text></g><!--MD5=[54e4f51669d44744d12ae7bfa8ee3b0b]
+entity actorAdmin--><g id="elem_actorAdmin"><ellipse cx="460.95" cy="747.25" fill="#F1F1F1" rx="5.6" ry="5.6" style="stroke:#181818;stroke-width:0.3499999999999999;"/><path d="M460.95,752.85 L460.95,771.75 M451.85,758.45 L470.05,758.45 M460.95,771.75 L451.85,782.25 M460.95,771.75 L470.05,782.25 " fill="none" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="26.6" x="447.65" y="792.1717">admin</text></g><!--MD5=[afd68967f3743d83ec0457dc96572152]
+entity actorEndUser--><g id="elem_actorEndUser"><ellipse cx="24.15" cy="683.55" fill="#F1F1F1" rx="5.6" ry="5.6" style="stroke:#181818;stroke-width:0.3499999999999999;"/><path d="M24.15,689.15 L24.15,708.05 M15.05,694.75 L33.25,694.75 M24.15,708.05 L15.05,718.55 M24.15,708.05 L33.25,718.55 " fill="none" style="stroke:#181818;stroke-width:0.3499999999999999;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="39.9" x="4.2" y="728.4717">end-user</text></g><!--MD5=[494caf0beb7d8d0e47d4f55e65934a44]
+link usecaseUpdateProfile to usecaseProfile--><g id="link_usecaseUpdateProfile_usecaseProfile"><path d="M183.155,357 C211.428,357 246.967,357 271.796,357 " fill="none" id="usecaseUpdateProfile-to-usecaseProfile" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="275.38,357,269.08,354.2,271.88,357,269.08,359.8,275.38,357" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="207.2" y="354.738">«extends»</text></g><!--MD5=[466b216367d6e9c194be48156d7009c2]
+link usecaseDeleteProfile to usecaseProfile--><g id="link_usecaseDeleteProfile_usecaseProfile"><path d="M167.951,395.241 C201.229,386.54 249.9,373.8 249.9,373.8 C249.9,373.8 264.712,369.026 278.551,364.574 " fill="none" id="usecaseDeleteProfile-to-usecaseProfile" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="282.037,363.447,275.1805,362.7272,278.7077,364.5268,276.9081,368.054,282.037,363.447" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="207.2" y="371.538">«extends»</text></g><!--MD5=[60fbd08bcb9298394fee0efb8ed25f20]
+link usecaseCreateProfile to usecaseProfile--><g id="link_usecaseCreateProfile_usecaseProfile"><path d="M160.013,440.02 C192.801,426.335 249.9,402.5 249.9,402.5 C249.9,402.5 273.518,381.892 288.967,368.417 " fill="none" id="usecaseCreateProfile-to-usecaseProfile" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="291.746,365.988,285.1566,368.0152,289.107,368.2871,288.8351,372.2376,291.746,365.988" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="207.2" y="400.238">«extends»</text></g><!--MD5=[16869da24c90cda393cdd903e7948174]
+reverse link usecaseViewProfile to usecaseProfile--><g id="link_usecaseViewProfile_usecaseProfile"><path d="M168.609,320.012 C201.859,329.133 249.9,342.3 249.9,342.3 C249.9,342.3 266.399,346.948 280.84,351.022 " fill="none" id="usecaseViewProfile-backto-usecaseProfile" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="165.032,319.032,170.3601,323.407,168.4059,319.9631,171.8499,318.0088,165.032,319.032" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="208.95" y="328.838">«include»</text></g><!--MD5=[b497160ffdb8f66d58f19b43c8ebabef]
+reverse link usecaseUserAccount to usecaseProfile--><g id="link_usecaseUserAccount_usecaseProfile"><path d="M809.109,269.178 C772.03,288.568 701.4,325.5 701.4,325.5 C701.4,325.5 418.096,347.928 329.56,354.935 " fill="none" id="usecaseUserAccount-backto-usecaseProfile" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="812.371,267.47,805.4917,267.9237,809.2731,269.0989,808.0979,272.8803,812.371,267.47" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="528.85" y="334.438">«include»</text></g><!--MD5=[32794b155bb01e0f82e0fb26e976a38e]
+link usecaseProfile to usecaseUserAccount--><g id="link_usecaseProfile_usecaseUserAccount"><path d="M310.184,347.536 C334.523,313.327 416.5,198.1 416.5,198.1 C416.5,198.1 590.8,187.6 590.8,187.6 C590.8,187.6 701.4,187.6 701.4,187.6 C701.4,187.6 765.8,214.2 765.8,214.2 C765.8,214.2 793.359,232.47 812.707,245.308 " fill="none" id="usecaseProfile-to-usecaseUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="815.738,247.317,812.0354,241.5015,812.8212,245.3825,808.9402,246.1683,815.738,247.317" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="528.85" y="186.738">«include»</text></g><!--MD5=[8baa6adaf448a42815a64f3c45ac405b]
+link actorUser to usecaseProfile--><g id="link_actorUser_usecaseProfile"><path d="M435.715,111.608 C404.782,119.056 355.6,130.9 355.6,130.9 C355.6,130.9 315.854,303.233 305.76,346.99 " fill="none" id="actorUser-usecaseProfile" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[ac62306aceaf93ceab1f84c6f8903b27]
+link actorAdmin to usecaseProfile--><g id="link_actorAdmin_usecaseProfile"><path d="M447.594,756.154 C434.672,744.163 416.5,727.3 416.5,727.3 C416.5,727.3 355.6,613.2 355.6,613.2 C355.6,613.2 315.133,414.414 305.494,367.045 " fill="none" id="actorAdmin-usecaseProfile" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[7898392afd6addc5ad1e6ed5555e5463]
+link actorEndUser to usecaseViewProfile--><g id="link_actorEndUser_usecaseViewProfile"><path d="M28.196,677.572 C38.871,592.662 71.4,333.9 71.4,333.9 C71.4,333.9 93.779,326.158 112.224,319.774 " fill="none" id="actorEndUser-usecaseViewProfile" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[3593c437f1a63dc28d2cc35f90c6b439]
+link usecaseRegister to usecaseAuthentication--><g id="link_usecaseRegister_usecaseAuthentication"><path d="M495.278,258.552 C527.023,252.182 569.8,243.6 569.8,243.6 C569.8,243.6 597.247,231.91 619.066,222.614 " fill="none" id="usecaseRegister-to-usecaseAuthentication" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="622.51,221.151,615.6167,221.041,619.2894,222.5213,617.8091,226.194,622.51,221.151" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="527.1" y="241.338">«extends»</text></g><!--MD5=[99d3ffe6ed5e21b88dc36ec7e994391b]
+link usecaseLogin to usecaseAuthentication--><g id="link_usecaseLogin_usecaseAuthentication"><path d="M497.623,224 C512.526,225.449 526.4,226.8 526.4,226.8 C526.4,226.8 569.8,226.8 569.8,226.8 C569.8,226.8 588.021,223.09 606.571,219.31 " fill="none" id="usecaseLogin-to-usecaseAuthentication" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="610.036,218.603,603.3033,217.1193,606.6067,219.3029,604.4231,222.6062,610.036,218.603" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="527.1" y="224.538">«extends»</text></g><!--MD5=[d5f167f835897288710445307fc9f7df]
+link usecaseLogout to usecaseAuthentication--><g id="link_usecaseLogout_usecaseAuthentication"><path d="M483.798,302.197 C515.438,289.912 569.8,268.8 569.8,268.8 C569.8,268.8 590.8,235.2 590.8,235.2 C590.8,235.2 605.402,228.837 619.5,222.691 " fill="none" id="usecaseLogout-to-usecaseAuthentication" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="622.874,221.221,615.98,221.173,619.6658,222.6202,618.2187,226.3061,622.874,221.221" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="527.1" y="266.538">«extends»</text></g><!--MD5=[848c3c919be882ec4775aeca4fff8390]
+link usecaseAuthentication to usecaseUserAccount--><g id="link_usecaseAuthentication_usecaseUserAccount"><path d="M678.93,219.45 C711.858,227.696 762.895,240.478 796.684,248.941 " fill="none" id="usecaseAuthentication-to-usecaseUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="800.107,249.802,794.6742,245.5576,796.7115,248.9531,793.316,250.9904,800.107,249.802" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="724.85" y="228.738">«include»</text></g><!--MD5=[b5e2b4bf13a24c15d17e00b0edf4dfcb]
+link actorUser to usecaseAuthentication--><g id="link_actorUser_usecaseAuthentication"><path d="M486.192,114.597 C518.098,126.161 569.8,144.9 569.8,144.9 C569.8,144.9 611.443,181.531 632.919,200.417 " fill="none" id="actorUser-usecaseAuthentication" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[ff092da25ae5f5a10d9d9541e4722bc7]
+link actorAdmin to usecaseAuthentication--><g id="link_actorAdmin_usecaseAuthentication"><path d="M474.306,756.154 C487.228,744.163 505.4,727.3 505.4,727.3 C505.4,727.3 569.8,632.8 569.8,632.8 C569.8,632.8 590.8,235.2 590.8,235.2 C590.8,235.2 607.838,227.773 622.874,221.221 " fill="none" id="actorAdmin-usecaseAuthentication" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[2b23662e96ff94f39c3760e2fba1c329]
+reverse link usecaseUserAccount to usecaseCreateUserAccount--><g id="link_usecaseUserAccount_usecaseCreateUserAccount"><path d="M874.713,251.671 C905.205,247.38 946.029,241.626 975.114,237.524 " fill="none" id="usecaseUserAccount-backto-usecaseCreateUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="871.241,252.161,877.8706,254.0526,874.7066,251.6716,877.0876,248.5076,871.241,252.161" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="898.8" y="240.638">«extends»</text></g><!--MD5=[254632564f3c75851aa22ae5177d129c]
+link usecaseUserAccount to usecaseViewUserAccount--><g id="link_usecaseUserAccount_usecaseViewUserAccount"><path d="M861.357,265.888 C878.941,270.97 898.1,276.5 898.1,276.5 C898.1,276.5 938.567,276.752 971.152,276.948 " fill="none" id="usecaseUserAccount-to-usecaseViewUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="974.68,276.976,968.3961,274.14,971.1801,276.956,968.3641,279.74,974.68,276.976" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="900.55" y="274.238">«include»</text></g><!--MD5=[122547fdd65e2650302b91f217807884]
+link usecaseDeleteUserAccount to usecaseUserAccount--><g id="link_usecaseDeleteUserAccount_usecaseUserAccount"><path d="M688.653,257.6 C716.744,257.6 753.823,257.6 783.132,257.6 " fill="none" id="usecaseDeleteUserAccount-to-usecaseUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="786.667,257.6,780.367,254.8,783.167,257.6,780.367,260.4,786.667,257.6" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="723.1" y="255.338">«extends»</text></g><!--MD5=[b6fcaad2cec99f0a9745b763dda0d505]
+link usecaseUpdateUserAccount to usecaseUserAccount--><g id="link_usecaseUpdateUserAccount_usecaseUserAccount"><path d="M677.446,295.708 C712.705,287.203 765.8,274.4 765.8,274.4 C765.8,274.4 781.312,270.417 797.237,266.329 " fill="none" id="usecaseUpdateUserAccount-to-usecaseUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="800.632,265.461,793.8337,264.315,797.2419,266.331,795.2258,269.7392,800.632,265.461" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="723.1" y="272.138">«extends»</text></g><!--MD5=[bc5b8615323c712754e22c1ae664d1ed]
+link actorAdmin to usecaseUserAccount--><g id="link_actorAdmin_usecaseUserAccount"><path d="M474.537,765.758 C524.342,757.47 701.4,728 701.4,728 C701.4,728 765.8,658 765.8,658 C765.8,658 786.8,486.5 786.8,486.5 C786.8,486.5 820.225,314.363 829.108,268.639 " fill="none" id="actorAdmin-usecaseUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[e8885d72b416e3eae5f7ae1698b2ffdb]
+link actorUser to usecaseUserAccount--><g id="link_actorUser_usecaseUserAccount"><path d="M486.311,98.77 C504.609,93.625 526.4,87.5 526.4,87.5 C526.4,87.5 569.8,87.5 569.8,87.5 C569.8,87.5 765.8,103.6 765.8,103.6 C765.8,103.6 811.748,211.715 826.651,246.771 " fill="none" id="actorUser-usecaseUserAccount" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[7c39d17d0dac4340481cdac9cf4ddee3]
+reverse link usecaseIndigoTone to usecaseUpdateIndigoTone--><g id="link_usecaseIndigoTone_usecaseUpdateIndigoTone"><path d="M482.223,586.999 C501.186,597.044 526.4,610.4 526.4,610.4 C526.4,610.4 582.33,632.114 617.498,645.771 " fill="none" id="usecaseIndigoTone-backto-usecaseUpdateIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="479.003,585.291,483.2551,590.7177,482.0946,586.9318,485.8805,585.7712,479.003,585.291" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="527.1" y="608.138">«extends»</text></g><!--MD5=[6ac593791789de92800b04aa574b5c4d]
+reverse link usecaseIndigoTone to usecaseCreateIndigoTone--><g id="link_usecaseIndigoTone_usecaseCreateIndigoTone"><path d="M486.57,566.132 C504.819,558.831 526.4,550.2 526.4,550.2 C526.4,550.2 579.81,531.979 615.062,519.953 " fill="none" id="usecaseIndigoTone-backto-usecaseCreateIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="483.21,567.476,490.0993,567.736,486.4597,566.1761,488.0195,562.5365,483.21,567.476" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="527.1" y="533.938">«extends»</text></g><!--MD5=[693ccac916a2736533dfe0ee7b2a78cd]
+reverse link usecaseIndigoTone to usecaseDeleteIndigoTone--><g id="link_usecaseIndigoTone_usecaseDeleteIndigoTone"><path d="M499.373,582.421 C529.298,587.44 571.151,594.454 602.385,599.69 " fill="none" id="usecaseIndigoTone-backto-usecaseDeleteIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="495.782,581.819,501.5324,585.622,499.2338,582.3976,502.4582,580.0991,495.782,581.819" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="527.1" y="585.738">«extends»</text></g><!--MD5=[a5ff3598271a34898d044df2cc390122]
+link usecaseIndigoTone to usecaseViewIndigoTone--><g id="link_usecaseIndigoTone_usecaseViewIndigoTone"><path d="M500.171,572.432 C527.982,569.786 565.768,566.181 595.833,563.318 " fill="none" id="usecaseIndigoTone-to-usecaseViewIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="599.459,562.975,592.9172,560.7991,595.9755,563.3144,593.4602,566.3727,599.459,562.975" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="528.85" y="564.738">«include»</text></g><!--MD5=[6222bb654f4925276f8169031fe60efc]
+link actorAdmin to usecaseIndigoTone--><g id="link_actorAdmin_usecaseIndigoTone"><path d="M447.608,759.64 C423.584,744.779 375.55,715.05 375.55,715.05 C375.55,715.05 375.55,635.95 375.55,635.95 C375.55,635.95 423.087,602.637 447.23,585.718 " fill="none" id="actorAdmin-usecaseIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[a9066c77a0f2f93ff53f433ce50998ee]
+link actorUser to usecaseViewIndigoTone--><g id="link_actorUser_usecaseViewIndigoTone"><path d="M486.192,121.107 C518.098,141.141 569.8,173.6 569.8,173.6 C569.8,173.6 590.8,534.1 590.8,534.1 C590.8,534.1 607.6,541.639 622.559,548.352 " fill="none" id="actorUser-usecaseViewIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[520945dda21b94cf5421130284947a6c]
+link actorEndUser to usecaseViewIndigoTone--><g id="link_actorEndUser_usecaseViewIndigoTone"><path d="M44.24,704.2 C76.125,704.2 136.15,704.2 136.15,704.2 C136.15,704.2 136.15,704.2 461.65,704.2 C461.65,704.2 569.8,632.8 569.8,632.8 C569.8,632.8 590.8,582.4 590.8,582.4 C590.8,582.4 607.131,575.281 621.929,568.834 " fill="none" id="actorEndUser-usecaseViewIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[de3931a914211f5e7d58646a0465e99c]
+link usecaseUpdateProduct to usecaseProduct--><g id="link_usecaseUpdateProduct_usecaseProduct"><path d="M185.57,557.2 C211.68,557.2 243.383,557.2 267.12,557.2 " fill="none" id="usecaseUpdateProduct-to-usecaseProduct" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="270.858,557.2,264.558,554.4,267.358,557.2,264.558,560,270.858,557.2" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="207.2" y="554.938">«extends»</text></g><!--MD5=[7a7ca1c357e78e5de91897254740c1ab]
+link usecaseDeleteProduct to usecaseProduct--><g id="link_usecaseDeleteProduct_usecaseProduct"><path d="M168.252,596.386 C201.516,587.265 249.9,574 249.9,574 C249.9,574 263.536,569.604 276.864,565.313 " fill="none" id="usecaseDeleteProduct-to-usecaseProduct" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="280.238,564.228,273.3835,563.4895,276.9058,565.2987,275.0966,568.821,280.238,564.228" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="207.2" y="571.738">«extends»</text></g><!--MD5=[fc684738b7913edecb4e2d3eada95739]
+link usecaseCreateProduct to usecaseProduct--><g id="link_usecaseCreateProduct_usecaseProduct"><path d="M167.951,518.126 C201.229,527.45 249.9,541.1 249.9,541.1 C249.9,541.1 262.934,545.125 275.968,549.15 " fill="none" id="usecaseCreateProduct-to-usecaseProduct" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="279.629,550.277,274.4339,545.7448,276.2844,549.2456,272.7836,551.0961,279.629,550.277" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="207.2" y="526.938">«extends»</text></g><!--MD5=[a134219590da109b119765688c51f074]
+link usecaseProduct to usecaseViewProduct--><g id="link_usecaseProduct_usecaseViewProduct"><path d="M318.486,565.789 C346.794,581.966 408.023,616.959 439.95,635.201 " fill="none" id="usecaseProduct-to-usecaseViewProduct" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="443.135,637.021,439.0582,631.4614,440.0974,635.2824,436.2764,636.3215,443.135,637.021" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="356.3" y="587.138">«include»</text></g><!--MD5=[b7488f0681d61d2e70aff9a76488483b]
+link usecaseProduct to usecaseIndigoTone--><g id="link_usecaseProduct_usecaseIndigoTone"><path d="M332.577,560.714 C356.986,563.654 392.112,567.889 419.349,571.172 " fill="none" id="usecaseProduct-to-usecaseIndigoTone" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="422.968,571.606,417.0489,568.0713,419.4932,571.1866,416.3779,573.631,422.968,571.606" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="356.3" y="561.938">«include»</text></g><!--MD5=[36823e8df5ddebd76e627acba4a5c963]
+link usecaseProduct to usecaseCategory--><g id="link_usecaseProduct_usecaseCategory"><path d="M311.661,547.673 C343.924,510.223 460.25,375.2 460.25,375.2 C460.25,375.2 460.25,375.2 832.65,375.2 C832.65,375.2 926.849,392.161 978.523,401.464 " fill="none" id="usecaseProduct-to-usecaseCategory" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="982.17,402.122,976.4665,398.2489,978.7255,401.5012,975.4732,403.7601,982.17,402.122" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="626.85" y="372.938">«include»</text></g><!--MD5=[d3ed82db713e09d0593b8c529d6d0e13]
+link usecaseProduct to actorUser--><g id="link_usecaseProduct_actorUser"><path d="M306.18,547.344 C316.911,508.599 355.6,368.9 355.6,368.9 C355.6,368.9 416.5,163.1 416.5,163.1 C416.5,163.1 428.484,147.371 439.915,132.384 " fill="none" id="usecaseProduct-actorUser" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[a4bdd3ca21af3cc43b65b906559bd51f]
+link actorEndUser to usecaseViewProduct--><g id="link_actorEndUser_usecaseViewProduct"><path d="M44.268,695.422 C54.558,690.767 65.1,686 65.1,686 C65.1,686 319.109,660.8 419.818,650.811 " fill="none" id="actorEndUser-usecaseViewProduct" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[36c8af36f3628203854a0215094672a5]
+reverse link usecaseCategory to usecaseUpdateCategory--><g id="link_usecaseCategory_usecaseUpdateCategory"><path d="M1042.034,414.89 C1075.746,423.549 1131.186,437.801 1166.844,446.964 " fill="none" id="usecaseCategory-backto-usecaseUpdateCategory" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1038.639,414.015,1044.0452,418.2932,1042.0291,414.885,1045.4373,412.869,1038.639,414.015" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="1085.35" y="424.038">«extends»</text></g><!--MD5=[40fc3dd434454e48a770d89b46a7c009]
+reverse link usecaseCategory to usecaseDeleteCategory--><g id="link_usecaseCategory_usecaseDeleteCategory"><path d="M1051.092,407.4 C1080.275,407.4 1120.7,407.4 1152.2,407.4 " fill="none" id="usecaseCategory-backto-usecaseDeleteCategory" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1047.592,407.4,1053.892,410.2,1051.092,407.4,1053.892,404.6,1047.592,407.4" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="1085.35" y="405.138">«extends»</text></g><!--MD5=[d8d3789d97f2e3ae98200a9bf9e5dbbd]
+reverse link usecaseCategory to usecaseCreateCategory--><g id="link_usecaseCategory_usecaseCreateCategory"><path d="M1042.055,400.015 C1075.984,391.426 1131.886,377.265 1167.509,368.242 " fill="none" id="usecaseCategory-backto-usecaseCreateCategory" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1038.639,400.883,1045.4333,402.0526,1042.0321,400.0247,1044.06,396.6236,1038.639,400.883" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="1085.35" y="375.738">«extends»</text></g><!--MD5=[9b22bdd03bd06afe6d417a6de374c559]
+link usecaseCategory to usecaseViewCategory--><g id="link_usecaseCategory_usecaseViewCategory"><path d="M1021.657,417.039 C1035.755,432.537 1061.9,461.3 1061.9,461.3 C1061.9,461.3 1082.9,613.2 1082.9,613.2 C1082.9,613.2 1133.251,627.543 1168.153,637.483 " fill="none" id="usecaseCategory-to-usecaseViewCategory" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1171.695,638.491,1166.4032,634.0721,1168.3289,637.5321,1164.8689,639.4579,1171.695,638.491" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="1087.1" y="610.938">«include»</text></g><!--MD5=[dea3e6c4e4caf866c39c0f62ebae21bc]
+link actorAdmin to usecaseCategory--><g id="link_actorAdmin_usecaseCategory"><path d="M474.446,769.699 C493.311,772.352 526.4,777 526.4,777 C526.4,777 765.8,777 765.8,777 C765.8,777 941.5,566.3 941.5,566.3 C941.5,566.3 962.5,461.3 962.5,461.3 C962.5,461.3 988.645,432.537 1002.743,417.039 " fill="none" id="actorAdmin-usecaseCategory" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[f0d8c37aee5b4e7859a15c46d695a08e]
+link actorUser to usecaseCategory--><g id="link_actorUser_usecaseCategory"><path d="M478.66,79.03 C497.847,48.958 526.4,4.2 526.4,4.2 C526.4,4.2 941.5,4.2 941.5,4.2 C941.5,4.2 962.5,298.9 962.5,298.9 C962.5,298.9 995.001,370.874 1007.062,397.579 " fill="none" id="actorUser-usecaseCategory" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[6e6b3643798d29fb231a5bf80b2aaf4f]
+link actorEndUser to usecaseViewCategory--><g id="link_actorEndUser_usecaseViewCategory"><path d="M36.869,730.954 C65.646,795.032 136.15,952 136.15,952 C136.15,952 136.15,952 1012.9,952 C1012.9,952 1150.8,679 1150.8,679 C1150.8,679 1170.351,666.421 1185.016,656.985 " fill="none" id="actorEndUser-usecaseViewCategory" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[098b19f62d357e7f67013a8d058cfa0f]
+reverse link usecaseAddress to usecaseUpdateAddress--><g id="link_usecaseAddress_usecaseUpdateAddress"><path d="M866.026,504.455 C895.013,500.598 937.16,494.991 968.632,490.805 " fill="none" id="usecaseAddress-backto-usecaseUpdateAddress" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="862.386,504.945,868.9993,506.8928,865.8556,504.485,868.2634,501.3414,862.386,504.945" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="898.8" y="492.638">«extends»</text></g><!--MD5=[637736fa01b24cb9cf29711433583841]
+reverse link usecaseAddress to usecaseCreateAddress--><g id="link_usecaseAddress_usecaseCreateAddress"><path d="M865.879,513.324 C895.069,517.209 937.706,522.879 969.304,527.086 " fill="none" id="usecaseAddress-backto-usecaseCreateAddress" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="862.386,512.855,868.2634,516.4586,865.8556,513.315,868.9993,510.9072,862.386,512.855" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="898.8" y="515.738">«extends»</text></g><!--MD5=[048590485f2f5453971e4661afd1de65]
+reverse link usecaseViewAddress to usecaseAddress--><g id="link_usecaseViewAddress_usecaseAddress"><path d="M681.016,444.255 C716.17,453.355 765.8,466.2 765.8,466.2 C765.8,466.2 798.154,487.312 817.369,499.842 " fill="none" id="usecaseViewAddress-backto-usecaseAddress" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="677.446,443.331,682.8404,447.6241,680.8337,444.2104,684.2474,442.2038,677.446,443.331" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="724.85" y="453.438">«include»</text></g><!--MD5=[7f5ce6cb80bfd766dd2007bea7976aca]
+link usecaseDeleteAddress to usecaseAddress--><g id="link_usecaseDeleteAddress_usecaseAddress"><path d="M669.641,694.946 C684.6,688.422 701.4,681.1 701.4,681.1 C701.4,681.1 791.665,561.4 821.674,521.598 " fill="none" id="usecaseDeleteAddress-to-usecaseAddress" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="823.9,518.651,817.8666,521.9869,821.7888,521.4426,822.3331,525.3648,823.9,518.651" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="723.1" y="598.338">«extends»</text></g><!--MD5=[b34e17323bf5e633197c298eb515ca5e]
+link usecaseAddress to usecaseMap--><g id="link_usecaseAddress_usecaseMap"><path d="M849.8,517.293 C881.713,532.903 950.299,566.454 987.056,584.437 " fill="none" id="usecaseAddress-to-usecaseMap" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="990.29,586.026,985.8666,580.7379,987.1476,584.4848,983.4007,585.7658,990.29,586.026" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="900.55" y="540.238">«include»</text></g><!--MD5=[ef8d44ea37900238ede166f711a29762]
+reverse link usecaseMap to usecasePinMapAddress--><g id="link_usecaseMap_usecasePinMapAddress"><path d="M1064.854,596.4 C1094.289,596.4 1130.654,596.4 1158.367,596.4 " fill="none" id="usecaseMap-backto-usecasePinMapAddress" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1061.305,596.4,1067.605,599.2,1064.805,596.4,1067.605,593.6,1061.305,596.4" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="42" x="1085.35" y="594.138">«extends»</text></g><!--MD5=[65065fdadc2f5d9342da609ad2963c0e]
+link usecaseProfile to usecaseAddress--><g id="link_usecaseProfile_usecaseAddress"><path d="M322.749,363.818 C387.177,386.575 590.8,458.5 590.8,458.5 C590.8,458.5 736.435,489.027 801.024,502.565 " fill="none" id="usecaseProfile-to-usecaseAddress" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="804.601,503.314,799.0106,499.2795,801.1757,502.595,797.8602,504.76,804.601,503.314" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="38.5" x="528.85" y="434.538">«include»</text></g><!--MD5=[c4e6770d2a07085c4767cb77b7ec9654]
+link usecaseMap to usecaseViewMap--><g id="link_usecaseMap_usecaseViewMap"><path d="M1022.63,607.985 C1041.866,630.868 1082.9,679.7 1082.9,679.7 C1082.9,679.7 1132.376,688.8 1167.243,695.219 " fill="none" id="usecaseMap-to-usecaseViewMap" style="stroke:#181818;stroke-width:0.6999999999999998;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1170.778,695.87,1165.0855,691.9809,1167.3353,695.2395,1164.0767,697.4893,1170.778,695.87" style="stroke:#181818;stroke-width:0.6999999999999998;"/><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="45.5" x="1083.6" y="677.438">&lt;include&gt;&gt;</text></g><!--MD5=[05b69cff1a8717d808435a2d3d0dd473]
+link actorUser to usecaseAddress--><g id="link_actorUser_usecaseAddress"><path d="M486.192,108.878 C518.098,113.008 569.8,119.7 569.8,119.7 C569.8,119.7 765.8,214.2 765.8,214.2 C765.8,214.2 817.719,447.958 829.073,499.093 " fill="none" id="actorUser-usecaseAddress" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[24c425dd64d3c5ce1975cf040401fe1f]
+link usecaseAddress to actorAdmin--><g id="link_usecaseAddress_actorAdmin"><path d="M828.765,518.868 C816.809,566.818 765.8,771.4 765.8,771.4 C765.8,771.4 526.4,771.4 526.4,771.4 C526.4,771.4 493.311,769.608 474.446,768.593 " fill="none" id="usecaseAddress-actorAdmin" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[e2f75c6097bc6a86eb0a1b1da59cbaa5]
+link actorEndUser to usecaseViewMap--><g id="link_actorEndUser_usecaseViewMap"><path d="M28.896,730.926 C39.102,798.378 65.1,970.2 65.1,970.2 C65.1,970.2 136.15,1001.7 136.15,1001.7 C136.15,1001.7 136.15,1001.7 1012.9,1001.7 C1012.9,1001.7 1129.8,970.2 1129.8,970.2 C1129.8,970.2 1185.422,759.78 1198.239,711.284 " fill="none" id="actorEndUser-usecaseViewMap" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[fc9fa2ca72d4e7b04ce5ab3ebe2a7b90]
+link actorUser to usecaseMap--><g id="link_actorUser_usecaseMap"><path d="M486.311,91.833 C504.609,81.55 526.4,69.3 526.4,69.3 C526.4,69.3 569.8,69.3 569.8,69.3 C569.8,69.3 701.4,75.6 701.4,75.6 C701.4,75.6 765.8,84 765.8,84 C765.8,84 941.5,226.1 941.5,226.1 C941.5,226.1 962.5,556.5 962.5,556.5 C962.5,556.5 983.353,573.482 997.85,585.284 " fill="none" id="actorUser-usecaseMap" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[cc47cae2ae1ba05cc8fa31e5901ec4d9]
+link usecaseMap to actorAdmin--><g id="link_usecaseMap_actorAdmin"><path d="M1008.49,608.188 C995.092,660.716 941.5,870.8 941.5,870.8 C941.5,870.8 526.4,870.8 526.4,870.8 C526.4,870.8 493.129,817.929 474.285,787.983 " fill="none" id="usecaseMap-actorAdmin" style="stroke:#181818;stroke-width:0.6999999999999998;"/></g><!--MD5=[76624bd723d92537460e0ac40e59728b]
+@startuml
+'https://plantuml.com/use-case-diagram
+left to right direction
+
+skinparam linetype polyline
+' skinparam linetype ortho
+skinparam linewidth 2
+skinparam scale 2
+skinparam namespace separator ::
+
+actor "group/shop" as actorUser
+actor admin as actorAdmin
+actor "end-user" as actorEndUser
+
+
+
+rectangle "The development of management system for connecting color scheme of natural indigo dye with indigo textile production sites" {
+
+
+    '   ================================================
+    '         User Profile
+    '   ================================================
+    usecase (profile) as (usecaseProfile)
+    usecase (create profile) as (usecaseCreateProfile)
+    usecase (view profile) as (usecaseViewProfile)
+    usecase (update profile) as (usecaseUpdateProfile)
+    usecase (delete profile) as (usecaseDeleteProfile)
+    ' - - - - - - - - usecase - usecase - - - - - - - -
+    (usecaseUpdateProfile) ..>  (usecaseProfile)  : <<extends>>
+    (usecaseDeleteProfile) ..> (usecaseProfile)  : <<extends>>
+    (usecaseCreateProfile) ..> (usecaseProfile)  : <<extends>>
+    (usecaseViewProfile) <.. (usecaseProfile)  : <<include>>
+    (usecaseUserAccount)  <.. (usecaseProfile) : <<include>>
+    ' - - - - - - - - actor - usecase - - - - - - - -
+    actorUser - - (usecaseProfile)
+    actorAdmin - - (usecaseProfile)
+    actorEndUser - - (usecaseViewProfile)
+
+
+    '   ================================================
+    '         Authentication
+    '   ================================================
+    usecase (authentication) as (usecaseAuthentication)
+    usecase (user login) as (usecaseLogin)
+    usecase (user register) as (usecaseRegister)
+    usecase (user logout) as (usecaseLogout)
+    ' - - - - - - - - usecase - usecase - - - - - - - -
+
+    ' (usecaseAuthentication) <.. (usecaseRegister): <<extends>>
+    ' (usecaseAuthentication) <.. (usecaseLogin): <<extends>>
+    ' (usecaseAuthentication) <.. (usecaseLogout): <<extends>>
+    (usecaseRegister) ..> (usecaseAuthentication) : <<extends>>
+    (usecaseLogin) ..> (usecaseAuthentication) : <<extends>>
+    (usecaseLogout) ..> (usecaseAuthentication) : <<extends>>
+
+    (usecaseAuthentication) ..> (usecaseUserAccount) : <<include>>
+    ' - - - - - - - - actor - usecase - - - - - - - -
+    actorUser - - (usecaseAuthentication)
+    actorAdmin - -  (usecaseAuthentication)
+
+
+    '   ================================================
+    '         User Account
+    '   ================================================
+    usecase (user account) as (usecaseUserAccount)
+    usecase (delete user) as (usecaseDeleteUserAccount)
+    usecase (view user) as (usecaseViewUserAccount)
+    usecase (update user) as (usecaseUpdateUserAccount)
+    usecase (create user) as (usecaseCreateUserAccount)
+    ' - - - - - - - - usecase - usecase - - - - - - - -
+    (usecaseUserAccount)  <.. (usecaseCreateUserAccount) : <<extends>>
+    (usecaseUserAccount) ..> (usecaseViewUserAccount) : <<include>>
+    (usecaseDeleteUserAccount) ..> (usecaseUserAccount) : <<extends>>
+    (usecaseUpdateUserAccount) ..> (usecaseUserAccount) : <<extends>>
+    ' - - - - - - - - actor - usecase - - - - - - - -
+    actorAdmin - - (usecaseUserAccount)
+    actorUser - - (usecaseUserAccount)
+
+    '   ================================================
+    '         Indigo usecase
+    '   ================================================
+    usecase (Indigo tone) as (usecaseIndigoTone)
+    usecase (view indigo tone) as (usecaseViewIndigoTone)
+    usecase (create indigo tone) as (usecaseCreateIndigoTone)
+    usecase (update indigo tone) as (usecaseUpdateIndigoTone)
+    usecase (delete indigo tone) as (usecaseDeleteIndigoTone)
+    ' - - - - - - - - usecase - usecase - - - - - - - -
+
+    (usecaseIndigoTone) <.. (usecaseUpdateIndigoTone) : <<extends>>
+    (usecaseIndigoTone) <.. (usecaseCreateIndigoTone) : <<extends>>
+    (usecaseIndigoTone) <.. (usecaseDeleteIndigoTone) : <<extends>>
+    (usecaseIndigoTone) ..> (usecaseViewIndigoTone) : <<include>>
+    ' - - - - - - - - actor - usecase - - - - - - - -
+    actorAdmin - - (usecaseIndigoTone)
+    actorUser - - (usecaseViewIndigoTone)
+    actorEndUser -right- (usecaseViewIndigoTone)
+
+
+    '   ================================================
+    '         Product usecase
+    '   ================================================
+    usecase (product) as (usecaseProduct)
+    usecase (create product) as (usecaseCreateProduct)
+    usecase (view product) as (usecaseViewProduct)
+    usecase (update product) as (usecaseUpdateProduct)
+    usecase (delete product) as (usecaseDeleteProduct)
+    ' - - - - - - - - usecase - usecase - - - - - - - -
+    (usecaseUpdateProduct) ..> (usecaseProduct)  : <<extends>>
+    (usecaseDeleteProduct) ..> (usecaseProduct)  : <<extends>>
+    (usecaseCreateProduct) ..> (usecaseProduct)  : <<extends>>
+    (usecaseProduct) ..> (usecaseViewProduct) : <<include>>
+    (usecaseProduct) ..> (usecaseIndigoTone) : <<include>>
+    (usecaseProduct) .....> (usecaseCategory) : <<include>>
+    ' - - - - - - - - actor - usecase - - - - - - - -
+    (usecaseProduct) - - actorUser
+    actorEndUser - - (usecaseViewProduct)
+
+    '   ================================================
+    '         category usecase
+    '   ================================================
+    usecase (category) as (usecaseCategory)
+    usecase (create category) as (usecaseCreateCategory)
+    usecase (view category) as (usecaseViewCategory)
+    usecase (update category) as (usecaseUpdateCategory)
+    usecase (delete category) as (usecaseDeleteCategory)
+    ' - - - - - - - - usecase - usecase - - - - - - - -
+    (usecaseCategory) <.. (usecaseUpdateCategory)   : <<extends>>
+    (usecaseCategory) <.. (usecaseDeleteCategory) : <<extends>>
+    (usecaseCategory) <.. (usecaseCreateCategory) : <<extends>>
+    (usecaseCategory) ..> (usecaseViewCategory) : <<include>>
+    ' - - - - - - - - actor - usecase - - - - - - - -
+    actorAdmin - - (usecaseCategory)
+    actorUser - - (usecaseCategory)
+    actorEndUser - - (usecaseViewCategory)
+
+
+    '   ================================================
+    '         Address  usecase
+    '   ================================================
+    usecase (Interaction Map) as (usecaseMap)
+    usecase (view map) as (usecaseViewMap)
+    usecase (address) as (usecaseAddress)
+    usecase (create address) as (usecaseCreateAddress)
+    usecase (view address) as (usecaseViewAddress)
+    usecase (update address) as (usecaseUpdateAddress)
+    usecase (delete address) as (usecaseDeleteAddress)
+    usecase (pin address) as (usecasePinMapAddress)
+
+    ' - - - - - - - - usecase - usecase - - - - - - - -
+    (usecaseAddress) <.. (usecaseUpdateAddress) : <<extends>>
+    (usecaseAddress) <.. (usecaseCreateAddress) : <<extends>>
+    (usecaseViewAddress) <.. (usecaseAddress) : <<include>>
+    (usecaseDeleteAddress) ..> (usecaseAddress) : <<extends>>
+    (usecaseAddress) ..> (usecaseMap) : <<include>>
+    (usecaseMap)  <.. (usecasePinMapAddress) : <<extends>>
+    (usecaseProfile) ....> (usecaseAddress) : <<include>>
+    (usecaseProfile) ....> (usecaseUserAccount) : <<include>>
+    (usecaseMap) ..> (usecaseViewMap) : <include>>
+    ' - - - - - - - - actor - usecase - - - - - - - -
+    actorUser - - (usecaseAddress)
+    (usecaseAddress) - - actorAdmin
+    actorEndUser - - (usecaseViewMap)
+    actorUser - - (usecaseMap)
+    (usecaseMap) - - actorAdmin
+}
+
+@enduml
+
+@startuml
+left to right direction
+
+skinparam linetype polyline
+skinparam linewidth 2
+skinparam scale 2
+skinparam namespace separator ::
+
+actor "group/shop" as actorUser
+actor admin as actorAdmin
+actor "end-user" as actorEndUser
+
+
+
+rectangle "The development of management system for connecting color scheme of natural indigo dye with indigo textile production sites" {
+
+
+    usecase (profile) as (usecaseProfile)
+    usecase (create profile) as (usecaseCreateProfile)
+    usecase (view profile) as (usecaseViewProfile)
+    usecase (update profile) as (usecaseUpdateProfile)
+    usecase (delete profile) as (usecaseDeleteProfile)
+    (usecaseUpdateProfile) ..>  (usecaseProfile)  : <<extends>>
+    (usecaseDeleteProfile) ..> (usecaseProfile)  : <<extends>>
+    (usecaseCreateProfile) ..> (usecaseProfile)  : <<extends>>
+    (usecaseViewProfile) <.. (usecaseProfile)  : <<include>>
+    (usecaseUserAccount)  <.. (usecaseProfile) : <<include>>
+    actorUser - - (usecaseProfile)
+    actorAdmin - - (usecaseProfile)
+    actorEndUser - - (usecaseViewProfile)
+
+
+    usecase (authentication) as (usecaseAuthentication)
+    usecase (user login) as (usecaseLogin)
+    usecase (user register) as (usecaseRegister)
+    usecase (user logout) as (usecaseLogout)
+
+    (usecaseRegister) ..> (usecaseAuthentication) : <<extends>>
+    (usecaseLogin) ..> (usecaseAuthentication) : <<extends>>
+    (usecaseLogout) ..> (usecaseAuthentication) : <<extends>>
+
+    (usecaseAuthentication) ..> (usecaseUserAccount) : <<include>>
+    actorUser - - (usecaseAuthentication)
+    actorAdmin - -  (usecaseAuthentication)
+
+
+    usecase (user account) as (usecaseUserAccount)
+    usecase (delete user) as (usecaseDeleteUserAccount)
+    usecase (view user) as (usecaseViewUserAccount)
+    usecase (update user) as (usecaseUpdateUserAccount)
+    usecase (create user) as (usecaseCreateUserAccount)
+    (usecaseUserAccount)  <.. (usecaseCreateUserAccount) : <<extends>>
+    (usecaseUserAccount) ..> (usecaseViewUserAccount) : <<include>>
+    (usecaseDeleteUserAccount) ..> (usecaseUserAccount) : <<extends>>
+    (usecaseUpdateUserAccount) ..> (usecaseUserAccount) : <<extends>>
+    actorAdmin - - (usecaseUserAccount)
+    actorUser - - (usecaseUserAccount)
+
+    usecase (Indigo tone) as (usecaseIndigoTone)
+    usecase (view indigo tone) as (usecaseViewIndigoTone)
+    usecase (create indigo tone) as (usecaseCreateIndigoTone)
+    usecase (update indigo tone) as (usecaseUpdateIndigoTone)
+    usecase (delete indigo tone) as (usecaseDeleteIndigoTone)
+
+    (usecaseIndigoTone) <.. (usecaseUpdateIndigoTone) : <<extends>>
+    (usecaseIndigoTone) <.. (usecaseCreateIndigoTone) : <<extends>>
+    (usecaseIndigoTone) <.. (usecaseDeleteIndigoTone) : <<extends>>
+    (usecaseIndigoTone) ..> (usecaseViewIndigoTone) : <<include>>
+    actorAdmin - - (usecaseIndigoTone)
+    actorUser - - (usecaseViewIndigoTone)
+    actorEndUser -right- (usecaseViewIndigoTone)
+
+
+    usecase (product) as (usecaseProduct)
+    usecase (create product) as (usecaseCreateProduct)
+    usecase (view product) as (usecaseViewProduct)
+    usecase (update product) as (usecaseUpdateProduct)
+    usecase (delete product) as (usecaseDeleteProduct)
+    (usecaseUpdateProduct) ..> (usecaseProduct)  : <<extends>>
+    (usecaseDeleteProduct) ..> (usecaseProduct)  : <<extends>>
+    (usecaseCreateProduct) ..> (usecaseProduct)  : <<extends>>
+    (usecaseProduct) ..> (usecaseViewProduct) : <<include>>
+    (usecaseProduct) ..> (usecaseIndigoTone) : <<include>>
+    (usecaseProduct) .....> (usecaseCategory) : <<include>>
+    (usecaseProduct) - - actorUser
+    actorEndUser - - (usecaseViewProduct)
+
+    usecase (category) as (usecaseCategory)
+    usecase (create category) as (usecaseCreateCategory)
+    usecase (view category) as (usecaseViewCategory)
+    usecase (update category) as (usecaseUpdateCategory)
+    usecase (delete category) as (usecaseDeleteCategory)
+    (usecaseCategory) <.. (usecaseUpdateCategory)   : <<extends>>
+    (usecaseCategory) <.. (usecaseDeleteCategory) : <<extends>>
+    (usecaseCategory) <.. (usecaseCreateCategory) : <<extends>>
+    (usecaseCategory) ..> (usecaseViewCategory) : <<include>>
+    actorAdmin - - (usecaseCategory)
+    actorUser - - (usecaseCategory)
+    actorEndUser - - (usecaseViewCategory)
+
+
+    usecase (Interaction Map) as (usecaseMap)
+    usecase (view map) as (usecaseViewMap)
+    usecase (address) as (usecaseAddress)
+    usecase (create address) as (usecaseCreateAddress)
+    usecase (view address) as (usecaseViewAddress)
+    usecase (update address) as (usecaseUpdateAddress)
+    usecase (delete address) as (usecaseDeleteAddress)
+    usecase (pin address) as (usecasePinMapAddress)
+
+    (usecaseAddress) <.. (usecaseUpdateAddress) : <<extends>>
+    (usecaseAddress) <.. (usecaseCreateAddress) : <<extends>>
+    (usecaseViewAddress) <.. (usecaseAddress) : <<include>>
+    (usecaseDeleteAddress) ..> (usecaseAddress) : <<extends>>
+    (usecaseAddress) ..> (usecaseMap) : <<include>>
+    (usecaseMap)  <.. (usecasePinMapAddress) : <<extends>>
+    (usecaseProfile) ....> (usecaseAddress) : <<include>>
+    (usecaseProfile) ....> (usecaseUserAccount) : <<include>>
+    (usecaseMap) ..> (usecaseViewMap) : <include>>
+    actorUser - - (usecaseAddress)
+    (usecaseAddress) - - actorAdmin
+    actorEndUser - - (usecaseViewMap)
+    actorUser - - (usecaseMap)
+    (usecaseMap) - - actorAdmin
+}
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 00:01:30 ICT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
